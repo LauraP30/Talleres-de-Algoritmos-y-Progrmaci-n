@@ -1,2 +1,2 @@
 # Talleres-de-Algoritmos-y-Progrmaci-n
-En este repositorio se subirán todos los talleres desaroollados en el software PSeInt.
+En este repositorio se subirán todos los talleres desarollados en el software PSeInt.
