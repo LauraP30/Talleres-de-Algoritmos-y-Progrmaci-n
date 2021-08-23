@@ -1,7 +1,7 @@
 print("__Menú central__")
 print("1) Menu del día y personalizar pedido")
 print("2) Reservación de dia para restaurante")
-print("3) Entrada y Salida de trabjadores")
+print("3) Entrada y Salida de trabajadores")
 mnu1=int(input("Seleccione la opción de: "))
 if(mnu1==1):
  print ("__Menú del día__")
